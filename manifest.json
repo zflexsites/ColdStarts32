@@ -4,8 +4,8 @@
   "description": "La premiere boutique generee par zflex.\nzFlex est une entreprise hostee par wizard Farmers qui te permet de creer ou etendre ton business en ligne.\n\nColdStarts32 vous montre a quoi ressemble un site genere par la plateforme zFlex. Vous pouvez naviguer ensuite nous contacter via zflex.dev",
   "start_url": "/?source=pwa",
   "display": "standalone",
-  "background_color": "#0A0F1F",
-  "theme_color": "#3B82F6",
+  "background_color": "#000000",
+  "theme_color": "#A78BFA",
   "icons": [
     {
       "src": "/assets/icons/icon-192x192.svg",
